@@ -1,0 +1,7 @@
+############## Instruction to run CFD_FEM ##########################
+pip install virtualenv
+cd my-project
+virtualenv --python ...\Programs\Python\Python310\python.exe venv
+.\venv\Scripts\activate
+pip install . (using the setup.py it reads and install all the pip included in requirements)
+run.py
