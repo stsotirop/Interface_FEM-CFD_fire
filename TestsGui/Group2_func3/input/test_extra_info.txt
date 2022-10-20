@@ -1,0 +1,6 @@
+Transfer structure to FDS
+    rotation_axis = 'x'
+    rotation = - math.pi / 2
+    rotation_axis = 'z'
+    rotation = - math.pi / 2
+    transport_vec = (326.2, -41.1, 0)
