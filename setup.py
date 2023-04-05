@@ -33,7 +33,6 @@ setup(
     },
     packages=find_packages(exclude=['tests']),
     package_data={
-        # 'py_oma.sources': ['*.*'], # Declare folder
         'computation_core': ['*.ui', '*/*'] # Declare extra type of files, everything of py_oma
     }
 )
